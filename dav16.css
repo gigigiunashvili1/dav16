@@ -1,0 +1,142 @@
+*{
+    box-sizing: border-box;
+}
+
+.row-1{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.card1{
+    width: 360px;
+    height: 580px;
+    background-color:  #FFFFFF;
+    margin: 15px;
+    border-radius: 4px;
+
+    
+}
+
+.yursas{
+    border-radius: 4px 4px 0px 0px;
+}
+
+.card2{
+    width: 360px;
+    height: 580px;
+    background-color: #FFFFFF;
+    margin: 15px;
+    border-radius: 4px;
+}
+
+.card3{
+    width: 360px;
+    height: 580px;
+    background-color: #FFFFFF;
+    margin:15px;
+    border-radius: 4px;
+    margin-left: 35px;
+}
+h4{
+    color: #4CD964;
+    padding-left: 25px;
+}
+
+h2{
+    padding-left:25px;
+}
+
+p{
+    color:#9B9B9B;
+    padding-left:25px;
+}
+
+hr{
+ margin-top: 80px;
+ color:#EAEAEA;
+}
+
+.coment{
+    margin-left: 25px;
+    margin-top: 5px;
+}
+
+.text{
+    color:#9B9B9B;
+    margin-left: 33px;
+    margin-top: -22px;
+}
+
+.black{
+    width: 380px;
+    height: 221px;
+   margin-top: -10px;
+   border-radius: 0px 0px 4px 4px;
+}
+
+.contr{
+    margin-left: 30px;
+   margin-top: -545px;
+   color:#FFFFFF;
+}
+
+.fotou2{
+    border-radius: 4px;
+}
+.text2{
+    color: #FFFFFF;
+    margin-top: 260px;
+    margin-left: 35px;
+}
+
+.text3{
+    margin-left: 10px;
+}
+
+.tvali{
+    margin-left: 120px;
+    margin-top: -32px;
+}
+
+.cifri{
+    color:#9B9B9B;
+    margin-left: 125px;
+    margin-top: -32px;
+}
+
+.sharee{
+    margin-left: 310px;
+    margin-top: -32px;
+}
+
+.fotooe{
+    border-radius: 4px 4px 0px 0px;
+}
+
+.pic{
+    margin-top: -26px;
+    margin-left: 30px;
+}
+
+.cifrebi{
+    margin-top:-26px;
+    margin-left: 36px;
+}
+
+.tvalebii{
+    margin-left: 135px;
+    margin-top: -32px;
+}
+
+.cifriii{
+    margin-left: 150px;
+    margin-top: -32px;
+}
+
+.foto{
+    margin-left: 330px;
+    margin-top: -35px;
+}
